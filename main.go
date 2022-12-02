@@ -1,7 +1,7 @@
-package main
+package token
 
 import "fmt"
 
 func main(){
-	fmt.Println(11111111)
+	fmt.Println(111111111)
 }
